@@ -1,0 +1,35 @@
+#batas{
+	width: 784px;
+	height: 500px;
+}
+.content{
+	width: 784px;
+	height: 300px;
+}
+.content .kolom1{
+	width: 200px;
+	height: auto;
+	box-sizing: border-box;
+	float: left;
+	background-color: salmon;
+	padding-top: 20px;
+	padding-bottom: 182px;
+}
+.content .kolom2{
+	width: 584px;
+	height: auto;
+	float: right;
+	background-color: skyblue;
+}
+.footer{
+	width: 784px;
+	height: 100px;
+	background-color: yellow;
+}
+.navbar a{
+	display: block;
+	margin: 0;
+}
+.footer .credit{
+	text-align: left;
+}
