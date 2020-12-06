@@ -1,0 +1,16 @@
+{
+    "nama": {
+        "awal": "Yosua Rori",
+        "akhir": "H"
+    },
+    "jeniskelamin": "Laki-laki",
+    "alamat": {
+        "kabupaten": "Bekasi",
+        "provinsi": "Jawa Barat",
+        "negara": "Indonesia"
+    },
+    "sosialMedia": {
+        "github": "yosuarori14",
+        "instagram": "yosuarori"
+    }
+}
